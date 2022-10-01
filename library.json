@@ -1,0 +1,26 @@
+{
+    "name": "LoRaNowB",
+    "version": "1.0.0",
+    "description": "LoRaNow Library is a simple LoRa Node <> Gateway communication protocol",
+    "keywords": "LoRa, communication",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Baptou88",
+        "email": "me@john-smith.com",
+        "url": "https://www.john-smith/contact"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://www.LoRaNowB.org/",
+    "dependencies": {
+      "sandeepmistry/LoRa": "~0.8.0"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
